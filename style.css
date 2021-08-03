@@ -1,0 +1,30 @@
+*{
+    background-color: rgb(178, 175, 180);
+}
+header{
+    align-items: center;
+    margin: 1%;
+}
+h1{
+    color: rgb(18, 15, 71);
+    text-shadow: rgb(110, 110, 110) 4px 2px;
+    font-size: 300%;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+ .maindiv{
+     text-align: center;
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     text-align: center;
+ }
+ h2{
+    color: rgb(37, 9, 65);
+ }
+ .close{
+  
+    right: 0;
+    top:0;
+}
+#items{
+    list-style: none;
+}
